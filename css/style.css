@@ -13,8 +13,7 @@ main{
   
 }
 main p{
-  width:96%;
-  margin:0 2%;
+ 
   padding-bottom:40px;
   font-family: 'Montserrat', sans-serif;
 }
@@ -58,8 +57,10 @@ a:hover{
 .heading{
   background-color: lightgray;
   width:100%;
+  margin-bottom:60px;
   
 }
+
   
 
 .about, .capabilities, .contact{
@@ -84,6 +85,6 @@ footer{
   
 }
 footer p{
-  padding-bottom:10px;
+  padding-bottom:0px;
 }
 
