@@ -19,8 +19,8 @@ main p{
   font-family: 'Montserrat', sans-serif;
 }
 .logo{
-  width:70%;
-  margin:0 15%;
+  width:80%;
+  margin:0 10%;
   padding: 30px;
 }
 h1{
@@ -48,6 +48,19 @@ li{
   text-align: left;
   font-family: 'Montserrat', sans-serif;
 }
+a{
+  text-decoration: none;
+  color:black;
+}
+a:hover{
+  color:darkgrey;
+}
+.heading{
+  background-color: lightgray;
+  width:100%;
+  
+}
+  
 
 .about, .capabilities, .contact{
   width:70%;
@@ -58,8 +71,8 @@ li{
   padding-bottom: 40px;
 }
 .part_logos{
-  width:96%;
-  margin:0 2%;
+  width:80%;
+  margin:0 10%;
 }
 footer{
   background-color: lightgray;
@@ -69,5 +82,8 @@ footer{
   font-style: 1.0em;
   font-family: 'Montserrat', sans-serif;
   
+}
+footer p{
+  padding-bottom:10px;
 }
 
